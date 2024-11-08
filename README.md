@@ -7,3 +7,4 @@ lab06 https://github.com/Revanth2227/Ai/blob/main/Lab06-AIML.ipynb
 lab07 https://github.com/Revanth2227/Ai/blob/main/Lab07-SVM%20(1).ipynb
 lab08 https://github.com/Revanth2227/Ai/blob/main/AIML_Assignment_08%20(1).ipynb
 lab09 https://github.com/Revanth2227/Ai/blob/main/Lab%2009%20(1).ipynb
+lab10 https://github.com/Revanth2227/Ai/blob/main/Lab10-AIML%20(1).ipynb
